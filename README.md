@@ -10,7 +10,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=juunini" alt="juunini" /> </p>
 
-- 🔭 I’m working in [PATI Games](https://patigames.com/) (I'm looking for another company)
+- 🔭 I’m working in [PATI Games](https://patigames.com/)
 
 - 🌱 I’m currently learning **react**
 
