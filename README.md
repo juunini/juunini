@@ -6,7 +6,7 @@
 <a href="https://instagram.com/juuni.ni" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="juuni.ni" height="30" width="30" /></a>
 </p>
 
-<h3 align="center">Web Full-Stack Junior Developer</h3>
+<h3 align="center">Junior Back-End Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=juunini" alt="juunini" /> </p>
 
