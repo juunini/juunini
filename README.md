@@ -14,7 +14,7 @@
 
 - 🌱 I’m currently learning **react**
 
-- 📝 I regulary write articles on [https://juunini.xyz](https://juunini.xyz)
+- 📝 I regulary write articles on [https://velog.io/@juunini](https://velog.io/@juunini)
 
 - 📫 How to reach me **juuni.ni.i@gmail.com**
 
