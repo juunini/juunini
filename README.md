@@ -11,12 +11,6 @@
 
 <p align="center"><img src="https://i.imgur.com/oxvOVQq.jpg" alt="" width="50%" /></p>
 
-- 🌱 I’m currently learning **react**
-
-- 📝 I regulary write articles on [https://velog.io/@juunini](https://velog.io/@juunini)
-
-- 📫 How to reach me **juuni.ni.i@gmail.com**
-
 <p align="center">
   <img src="https://devicons.github.io/devicon/devicon.git/icons/go/go-original.svg" alt="go" width="40" height="40"/> 
   <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
@@ -39,6 +33,12 @@
   <img src="https://devicons.github.io/devicon/devicon.git/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> 
 </p>
 
+- 🌱 I’m currently learning **react**
+
+- 📝 I regulary write articles on [https://velog.io/@juunini](https://velog.io/@juunini)
+
+- 📫 How to reach me **juuni.ni.i@gmail.com**
+
 <!--<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juunini&layout=compact&hide=html" alt="juunini" /></p>-->
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=juunini&show_icons=true" alt="juunini" /></p>
+<!--<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=juunini&show_icons=true" alt="juunini" /></p>-->
