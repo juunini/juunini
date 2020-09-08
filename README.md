@@ -7,7 +7,7 @@
 
 <h3 align="center">Full Stack(OverFlow) Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=juunini" alt="juunini" /> </p>
+<!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=juunini" alt="juunini" /> </p>-->
 
 <p align="center"><img src="https://i.imgur.com/oxvOVQq.jpg" alt="" width="50%" /></p>
 
