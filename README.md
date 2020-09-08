@@ -1,14 +1,15 @@
 <h1 align="center">Hi 👋, I'm juunini</h1>
 
 <p align="center">
-<a href="https://twitter.com/juunini1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="juunini1" height="30" width="30" /></a>
+<a href="https://velog.io/@juunini" target="blank"><img align="center" src="https://static.velog.io/favicon.ico" alt="juunini1" height="30" width="30" /></a>
 <a href="https://fb.com/juuni.ni.i" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="juuni.ni.i" height="30" width="30" /></a>
-<a href="https://instagram.com/juuni.ni" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="juuni.ni" height="30" width="30" /></a>
 </p>
 
-<h3 align="center">Junior Back-End Developer</h3>
+<h3 align="center">Full Stack(OverFlow) Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=juunini" alt="juunini" /> </p>
+
+<p align="center"><img src="https://i.imgur.com/oxvOVQq.jpg" alt="" width="50%" /></p>
 
 - 🌱 I’m currently learning **react**
 
