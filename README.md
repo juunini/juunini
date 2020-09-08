@@ -10,8 +10,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=juunini" alt="juunini" /> </p>
 
-- 🔭 I’m working in [PATI Games](https://patigames.com/)
-
 - 🌱 I’m currently learning **react**
 
 - 📝 I regulary write articles on [https://velog.io/@juunini](https://velog.io/@juunini)
