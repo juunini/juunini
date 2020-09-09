@@ -9,7 +9,7 @@
 
 <!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=juunini" alt="juunini" /> </p>-->
 
-<p align="center"><img src="https://i.imgur.com/oxvOVQq.jpg" alt="" width="50%" /></p>
+<p align="center"><img src="https://i.imgur.com/oxvOVQq.jpg" alt="" width="500" /></p>
 
 <p align="center">
   <img src="https://devicons.github.io/devicon/devicon.git/icons/go/go-original.svg" alt="go" width="40" height="40"/> 
