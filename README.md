@@ -5,7 +5,7 @@
 <a href="https://fb.com/juuni.ni.i" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="juuni.ni.i" height="30" width="30" /></a>
 </p>
 
-<h3 align="center">Full Stack(OverFlow) Developer</h3>
+<h3 align="center">Full Stack(OverFlow)</h3>
 
 <!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=juunini" alt="juunini" /> </p>-->
 
