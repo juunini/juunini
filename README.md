@@ -33,7 +33,7 @@
   <img src="https://devicons.github.io/devicon/devicon.git/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> 
 </p>
 
-- 🤝 I’m currently working in FETCHING
+<!-- - 🤝 I’m currently working in [FETCHING CO., Ltd.](http://fetching.co.kr/) -->
 
 - 🌱 I’m currently learning **react** in codesoom
 
