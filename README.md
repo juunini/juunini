@@ -33,9 +33,15 @@
   <img src="https://devicons.github.io/devicon/devicon.git/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> 
 </p>
 
-- 🌱 I’m currently learning **react**
+- 🤝 I’m currently working in FETCHING
 
-- 📝 I regulary write articles on [https://velog.io/@juunini](https://velog.io/@juunini)
+- 🌱 I’m currently learning **react** in codesoom
+
+- 👨‍💻 I'm participating in the ["The Ultimate Go Study Guide" Korean translation project](https://github.com/ultimate-go-korean/translation)
+
+- 📝 I regulary write articles on
+  - [https://velog.io/@juunini](https://velog.io/@juunini)
+  - [https://medium.com/@juuni.ni.i](https://medium.com/@juuni.ni.i)
 
 - 📫 How to reach me **juuni.ni.i@gmail.com**
 
