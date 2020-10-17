@@ -35,7 +35,7 @@
 
 <!-- - 🤝 I’m currently working in [FETCHING CO., Ltd.](http://fetching.co.kr/) -->
 
-- 🌱 I’m currently learning **react** in codesoom
+- 🌱 I’m currently learning **react** in [CodeSoom](https://www.codesoom.com/)
 
 - 👨‍💻 I'm participating in the ["The Ultimate Go Study Guide" Korean translation project](https://github.com/ultimate-go-korean/translation)
 
