@@ -5,7 +5,7 @@
 <a href="https://fb.com/juuni.ni.i" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="juuni.ni.i" height="30" width="30" /></a>
 </p>
 
-<h3 align="center">Full StackOverFlow</h3>
+<h3 align="center">Full StackOverFlow😂<br><br>I'm Back-End or Front-End Developer</h3>
 
 <!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=juunini" alt="juunini" /> </p>-->
 
@@ -16,6 +16,7 @@
   <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
   <br>
   
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="css3" width="40" height="40"/>
   <img src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
   <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
   <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
