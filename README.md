@@ -19,8 +19,9 @@
   <img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="css3" width="40" height="40"/>
   <img src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
   <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
   <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
   <br>
   
   <img src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
@@ -36,13 +37,12 @@
 
 <!-- - 🤝 I’m currently working in [FETCHING CO., Ltd.](http://fetching.co.kr/) -->
 
-- 🌱 I’m currently learning **react** in [CodeSoom](https://www.codesoom.com/)
+- 🌱 I’m currently learning **JAVA Spring** in [CodeSoom](https://www.codesoom.com/)
 
 - 👨‍💻 I'm participating in the ["The Ultimate Go Study Guide" Korean translation project](https://github.com/ultimate-go-korean/translation)
 
 - 📝 I regulary write articles on
   - [https://velog.io/@juunini](https://velog.io/@juunini)
-  - [https://medium.com/@juuni.ni.i](https://medium.com/@juuni.ni.i)
 
 - 📫 How to reach me **juuni.ni.i@gmail.com**
 
