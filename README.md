@@ -1,5 +1,9 @@
 <h1 align="center">저는 쥬니니에요👋</h1>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/juunini/juunini/master/card.png" alt="card" />
+</p>
+
 <h2 align="center">:bulb: 소개</h2>
 
 - 백엔드 개발자이지만 프론트엔드 개발자.
