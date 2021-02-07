@@ -12,16 +12,20 @@
   고객센터 관리 시스템 전체를 혼자서 만들어 라이브 배포까지 완료해본 경험이 있습니다.
   <small>(2020.01 ~ 2020.03)</small>
 </p>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40" />
+<div>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40" />
+</div>
 
 <h3>:hammer_and_wrench: 없으면 만들어서 쓴다</h3>
 <p>
   golang에 line notify를 쉽게 보낼 수 있게 도와주는 라이브러리가 없어서 직접 만들었습니다.
   <small>(2020.08)</small>
 </p>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40" />
+<div>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40" />
+</div>
 
 <h3>:rotating_light: 관리자(Admin)</h3>
 <p>
@@ -30,9 +34,11 @@
   덕분에 리눅스 환경과 AWS같은 인프라의 메인터넌스적인 관리에 익숙합니다.
   <small>(2018.06 ~ 2020.10)</small>
 </p>
-<img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40" />
+<div>
+  <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40" />
+</div>
 
 <h3>:money_with_wings: 밑빠진 독을 막아봄</h3>
 <p>
@@ -40,9 +46,11 @@
   외부에서 조회 할 필요도 없고, 물리장비로 옮길 수 있는 여지가 충분했기에 장비 구입비용 외에는 유지비가 나가지 않도록 새로 만들었습니다.
   <small>(2019.08)</small>
 </p>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40" />
-<img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40" />
+<div>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40" />
+  <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40" />
+</div>
 
 <h3>:anchor: 크롤링 어선</h3>
 <p>
@@ -50,7 +58,9 @@
   단순히 크롤링을 했다기 보다는 ban도 당하고, 우회도 해보며 막는 법, 뚫는 법을 모두 경험했습니다.
   <small>(2020.10 ~)</small>
 </p>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40" />
+<div>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40" />
+</div>
 
 <h2 align="center">:books: Projects</h2>
 
