@@ -70,7 +70,7 @@
 
 ### Equal Dark</h3>
 
-- 고스계열 브랜드의 상품을 모아서 직구할 때 드는 관부가세 및 배송비를 계산해주는 웹사이트
+- 고스계열 브랜드의 상품을 모아서 직구할 때 드는 관부가세 및 배송비를 계산해주는 웹사이트 (미완성.  개인프로젝트)
 - :link: Link : https://equal-dark.com
 - :octocat: Github : https://github.com/equal-dark
 
