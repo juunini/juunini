@@ -22,6 +22,14 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40" />
 </div>
 
+### :anchor: 크롤링 어선
+서비스에 필요한 데이터를 모으기 위해 지속적으로 크롤링을 한 경험이 있습니다.  
+단순히 크롤링을 했다기 보다는 ban도 당하고, 우회도 해보며 막는 법, 뚫는 법을 모두 경험했습니다.
+<small>(2020.10 ~)</small>  
+<div>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40" />
+</div>
+
 ### :hammer_and_wrench: 없으면 만들어서 쓴다
 golang에 line notify를 쉽게 보낼 수 있게 도와주는 라이브러리가 없어서 직접 만들었습니다.
 <small>(2020.08)</small>  
@@ -55,14 +63,6 @@ AWS Redshift를 이용하여 연간 엄청난 액수를 지출하던 로그시�
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40" />
   <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40" />
-</div>
-
-### :anchor: 크롤링 어선
-서비스에 필요한 데이터를 모으기 위해 지속적으로 크롤링을 한 경험이 있습니다.  
-단순히 크롤링을 했다기 보다는 ban도 당하고, 우회도 해보며 막는 법, 뚫는 법을 모두 경험했습니다.
-<small>(2020.10 ~)</small>  
-<div>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40" />
 </div>
 
 <h2 align="center">:books: Projects</h2>
