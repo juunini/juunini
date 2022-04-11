@@ -12,3 +12,6 @@
 <div align="center">
   <a href="https://opgc.me/#/users/juunini" target="_blank"><img src="https://api.opgc.me/githubs/users/juunini/tag/?theme=basic" /></a>
 </div>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=juunini&show_icons=true&theme=gruvbox" />
+</div>
