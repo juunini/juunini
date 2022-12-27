@@ -1,4 +1,3 @@
-- [Belivvr](https://about.belivvr.com/) WebXR lead developer  
 - [@belivvr/aframe-react](https://github.com/belivvr/aframe-react) Maintainer
 - [mozilla/hubs](https://github.com/mozilla/hubs) and [mozilla/Spoke](https://github.com/mozilla/Spoke) `mirror` component Contributor 🪞  
 - [mozilla/hubs](https://github.com/mozilla/hubs) Korean translation Contributor 🇰🇷  
