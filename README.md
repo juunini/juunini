@@ -1,3 +1,5 @@
+Just as `Paganini` isn't `Paga nini` or `Pagani ni`, I'm `Junini`.
+
 - [types-aframe-react](https://github.com/juunini/types-aframe-react) Maintainer
 - [mozilla/hubs](https://github.com/mozilla/hubs) and [mozilla/Spoke](https://github.com/mozilla/Spoke) `mirror` component Contributor 🪞  
 - [mozilla/hubs](https://github.com/mozilla/hubs) Korean translation Contributor 🇰🇷  
