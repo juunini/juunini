@@ -1,4 +1,4 @@
-Just as `Paganini` isn't `Paga nini` or `Pagani ni`, I'm `Junini`.
+Just as `Paganini` isn't `Paga nini` or `Pagani ni`, I'm `Juunini`.
 
 - [gltf-optimizer](https://github.com/juunini/gltf-optimizer) Maintainer
 - [webp-converter-browser](https://github.com/juunini/webp-converter-browser) Maintainer
