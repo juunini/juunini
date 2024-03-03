@@ -1,9 +1,12 @@
-Just as `Paganini` isn't `Paga nini` or `Pagani ni`, I'm `Juunini`.
+**지상 최강의 개발자 쥬니니**
 
+> [!NOTE]
+> Not Juuni ni.  
+> Just Juunini.
+
+- [palworld-discord-bot](https://github.com/juunini/palworld-discord-bot) Maintainer
 - [gltf-optimizer](https://github.com/juunini/gltf-optimizer) Maintainer
 - [webp-converter-browser](https://github.com/juunini/webp-converter-browser) Maintainer
-- [types-aframe-react](https://github.com/juunini/types-aframe-react) Maintainer
-- [mozilla/hubs](https://github.com/mozilla/hubs) and [mozilla/Spoke](https://github.com/mozilla/Spoke) `mirror` component Contributor 🪞  
 - [mozilla/hubs](https://github.com/mozilla/hubs) Korean translation Contributor 🇰🇷  
 - [The Ultimate Go Study Guide Korean translation](https://github.com/ultimate-go-korean/translation) Contributor  
 
