@@ -5,6 +5,8 @@
 > Just Juunini.
 
 - [palworld-discord-bot](https://github.com/juunini/palworld-discord-bot) Maintainer
+    - [palworld-rcon](https://github.com/juunini/palworld-rcon) Maintainer
+    - [palworld-settings](https://github.com/juunini/palworld-settings) Maintainer
 - [gltf-optimizer](https://github.com/juunini/gltf-optimizer) Maintainer
 - [webp-converter-browser](https://github.com/juunini/webp-converter-browser) Maintainer
 - [mozilla/hubs](https://github.com/mozilla/hubs) Korean translation Contributor 🇰🇷  
