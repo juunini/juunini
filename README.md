@@ -18,3 +18,7 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=juunini&show_icons=true&theme=gruvbox" />
 </div>
+
+---
+
+- [Will, Last Word](https://github.com/juunini/will)
