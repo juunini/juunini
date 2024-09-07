@@ -4,6 +4,7 @@
 > Not Juuni ni.  
 > Just Juunini.
 
+- [Hackerground](https://github.com/hackersground-kr/hackers-ground) Hackerthon 2024 tech mentor
 - [palworld-discord-bot](https://github.com/juunini/palworld-discord-bot) Maintainer
     - [palworld-rcon](https://github.com/juunini/palworld-rcon) Maintainer
     - [palworld-settings](https://github.com/juunini/palworld-settings) Maintainer
